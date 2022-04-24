@@ -1,0 +1,144 @@
+/*!
+ * Start Bootstrap - Landing Page Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body,
+html {
+    background-color: #00083F;
+    height:100%;
+    position: center;
+
+    background-attachment: fixed;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-talk {
+    color: #49434C;
+    text-align: "left" !important;
+    font-size: 15px;
+    font-family: "Trebuchet MS";
+    padding-bottom: 12px;
+    padding-top: 4px;
+}
+
+.header-pub {
+    color: #000000;
+    text-align: "left" !important;
+    font-size: 15px;
+    font-family: "Trebuchet MS";
+    padding-bottom: 12px;
+    padding-top: 4px;
+}
+
+.header-title {
+    color: #000000;
+    text-align: "left" !important;
+    font-size: 25px;
+    font-family: "Trebuchet MS";
+    padding-bottom: 0px;
+    padding-top: 4px;
+}
+.header-name {
+    color: #EF9A39;
+    text-align: "left" !important;
+    font-size: 90px;
+    font-family: "Trebuchet MS";
+    padding-bottom: 0px;
+    padding-top: 7px;
+}
+
+.header-art {
+    color: #000000;
+    text-align: "left" !important;
+    font-size: 16px;
+    font-family: "Trebuchet MS";
+    padding-bottom: 0px;
+    padding-top: 7px;
+  }
+.header-namePro {
+    color: #EF9A39;
+    text-align: "left" !important;
+    font-size: 70px;
+    font-family: "Trebuchet MS";
+    padding-bottom: 5px;
+    padding-top: 0px;
+}
+    /*background-image: url("../img/background.png");*/
+
+
+.header-button {
+    color: #482A57;
+    text-align: "left" !important;
+    font-size: 20px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-family: "Trebuchet MS";
+}
+
+.flex-container {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 100px;
+
+}
+
+.art{
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.flex-container-top {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+table {
+    table-layout: fixed;
+    width: 100%;   
+}
+
+.flex-item {
+  width: 400px;  /* Or whatever */
+  height: 50px; /* Or whatever */
+  margin: auto;  /* Magic! */
+  padding-left: 0px;
+  background-color: #00083F;
+}
+
+a {
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    color: #F1D876;
+}
+
+h1 {
+    color: #EF9A39;
+}
+
+h3 {
+font-weight: 200;
+}
+
+body,
+h2,
+h4,
+h5,
+h6
+{
+    font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 00;
+    color: #DCA24E;
+}
